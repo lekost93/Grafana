@@ -1,0 +1,73 @@
+[
+  {
+    "key" : "ARA",
+    "name" : "Araucária",
+    "latitude" : -25.59306,
+    "longitude" : -49.41028
+  },
+  {
+    "key" : "BIG",
+    "name" : "Biguaçu",
+    "latitude" : -27.49417,
+    "longitude" : -48.65556
+  },
+  {
+    "key" : "CHA",
+    "name" : "Chapecó",
+    "latitude" : -27.09639,
+    "longitude" : -52.61833
+  },
+  {
+    "key" : "COR",
+    "name" : "Coronel Barros",
+    "latitude" : -28.3819,
+    "longitude" : -54.0663
+  },
+  {
+    "key" : "EST",
+    "name" : "Esteio",
+    "latitude" : -29.8611,
+    "longitude" : -51.1809
+  },
+  {
+    "key" : "GUA",
+    "name" : "Guaramirim",
+    "latitude" : -26.4735,
+    "longitude" : -49.0034
+  },
+  {
+    "key" : "LAG",
+    "name" : "Lages",
+    "latitude" : -27.8167,
+    "longitude" : -50.3264
+  },
+  {
+    "key" : "PIC",
+    "name" : "Piçarras",
+    "latitude" : -26.7644,
+    "longitude" : -48.6721
+  },
+  {
+    "key" : "REN",
+    "name" : "Renascença",
+    "latitude" : -26.1563,
+    "longitude" : -52.9573
+  },
+  {
+    "key" : "RIO",
+    "name" : "Rio Grande",
+    "latitude" : -32.0332,
+    "longitude" : -52.0986
+  },
+  {
+    "key" : "SAR",
+    "name" : "Sarandi",
+    "latitude" : -23.4522,
+    "longitude" : -51.8527
+  },
+  {
+    "key" : "XAX",
+    "name" : "Xaxim",
+    "latitude" : -26.9619,
+    "longitude" : -52.5352
+  },
