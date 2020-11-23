@@ -12,6 +12,12 @@
     "longitude" : -48.65556
   },
   {
+    "key" : "CAX",
+    "name" : "Caxias do Sul",
+    "latitude" : -29.1678,
+    "longitude" : -51.1794
+  },
+  {
     "key" : "CHA",
     "name" : "Chapecó",
     "latitude" : -27.09639,
@@ -24,10 +30,16 @@
     "longitude" : -54.0663
   },
   {
-    "key" : "EST",
-    "name" : "Esteio",
+    "key" : "ESTUNI",
+    "name" : "Esteio Unibraspe",
     "latitude" : -29.8611,
     "longitude" : -51.1809
+  },
+  {
+    "key" : "ESTBES",
+    "name" : "Esteio Best",
+    "latitude" : -29.9189,
+    "longitude" : -51.1781
   },
   {
     "key" : "GUA",
