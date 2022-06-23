@@ -76,5 +76,35 @@
     "name" : "Xaxim",
     "latitude" : -26.9619,
     "longitude" : -52.5352
+  },
+  {
+    "key" : "SEN",
+    "name" : "Senador Canedo",
+    "latitude" : -16.7106,
+    "longitude" : -49.0867
+  },
+  {
+    "key" : "CUI",
+    "name" : "Cuiabá",
+    "latitude" : -15.5989,
+    "longitude" : -56.0949
+  },
+  {
+    "key" : "UBE",
+    "name" : "Uberlândia",
+    "latitude" : -18.9113,
+    "longitude" : -48.2622
+  },
+  {
+    "key" : "GUA",
+    "name" : "Guarulhos",
+    "latitude" : -23.413,
+    "longitude" : -46.4445
+  },
+  {
+    "key" : "PAU",
+    "name" : "Paulinia",
+    "latitude" : -23.413,
+    "longitude" : -46.4445
   }
   ]
